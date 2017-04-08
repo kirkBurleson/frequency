@@ -86,6 +86,4 @@ var freq = (function() {
 })();
 
 const s = "kirk loves to program in javascript";
-const x = "zzzziiiiiiiiiiiiiiiiiiiiii";
-const w = "";
-freq.display(freq.get(s), 1, 2);
+freq.display(freq.get(s), 0, 2);
