@@ -1,13 +1,9 @@
-Example output for "kirk loves to program"
+Make a program that takes a string and outputs a frequency graph showing
+how many times each character appears in the string.  Extra points for
+displaying the graph vertically, as well as, horizontally.  It doesn't
+have to show both graphs in the same run; that could be decided by a flag.
 
-
-         *                                         
-      *  *                                         
-   *  *  *     *                    *              
-*  *  *  *     *  *     *  *  *     *              
-*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  
-k  i  r     l  o  v  e  s  t  p  g  a  m  n  j  c  
-
+Example output for "kirk loves to program in javascript"
 
 k **
 i ***
@@ -26,3 +22,11 @@ m *
 n *
 j *
 c *
+
+
+         *                                         
+      *  *                                         
+   *  *  *     *                    *              
+*  *  *  *     *  *     *  *  *     *              
+*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  
+k  i  r     l  o  v  e  s  t  p  g  a  m  n  j  c
