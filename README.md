@@ -1,0 +1,1 @@
+Neat little program that counts how many times characters occur in a string and displays that data visually.  See Example.txt for an example of what it does.  This was written as a challenge for new javascript developers. 
